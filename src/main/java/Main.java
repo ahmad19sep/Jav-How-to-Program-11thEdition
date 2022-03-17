@@ -1,19 +1,27 @@
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        PetrolPurchase basirPur=new PetrolPurchase("Basirpur","All",1000000,150,10000,"All");
-        basirPur.setLocationPump("purani Chongi");
-        basirPur.setPetrolType("Desiel,petrol ");
-        basirPur.setNamePump("Local");
-        basirPur.setDiscount(10000);
-        basirPur.setRsPrLtr(150);
-        basirPur.setPetrolQuantity(1000);
-        System.out.println(basirPur.getNamePump());
-        System.out.println(basirPur.getLocationPump());
-        System.out.println(basirPur.getPetrolType());
-        System.out.println(basirPur.getPetrolQuantity());
-        System.out.println(basirPur.getRsPrLtr());
-        System.out.println(basirPur.getDiscount());
-        System.out.println("Total Amount you pay = "+basirPur.getPurchaseAmount());
+        HeartRates human1=new HeartRates("Ahmad","Siddique",19,9,2001);
+        human1.heartBeat();
+        Scanner scanner=new Scanner(System.in);
+        System.out.print("\n");
+        System.out.print("Enter your First Name: ");
+        String firstNAme=scanner.nextLine();
+        System.out.print("Enter your Last Name: ");
+        String lastName=scanner.nextLine();
+        System.out.println("Enter the date of birth");
+        System.out.print("Enter day: ");
+        int day=scanner.nextInt();
+        System.out.print("Enter Month: ");
+        System.out.print("\n");
+        int month=scanner.nextInt();
+        scanner.nextLine();
+        System.out.print("Enter year: ");
+        int year=scanner.nextInt();
+        System.out.println("\n");
+        HeartRates human2=new HeartRates(firstNAme,lastName,day,month,year);
 
+        human2.heartBeat();
     }
 }
