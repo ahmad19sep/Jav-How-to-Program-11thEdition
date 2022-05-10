@@ -2,7 +2,6 @@ package ch6methods;
 
 import java.security.SecureRandom;
 import java.util.Scanner;
-
 public class CoinTossing {
     static SecureRandom randomNum= new SecureRandom();
     static int head=0;
