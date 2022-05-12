@@ -1,5 +1,6 @@
 package Ch7Arrays.java;
 
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class KnightTourChess {
@@ -8,37 +9,55 @@ public class KnightTourChess {
     static int counter;
     static int currentRow;
     static int currentColumn;
-    static Scanner scanner = new Scanner(System.in);
 
     public static void main(String[] args) {
-        System.out.print("Enter the current position of Knight: ");
-        currentRow = scanner.nextInt();
-        currentColumn = scanner.nextInt();
-        gameLength[currentRow][currentColumn] = 1;
-        while (true) {
-            counter = 0;
-            leftUp();
+        int maximumMoves = 0;
+        int maxRow = 0;
+        int maxColumn = 0;
+        for (int i = 0; i < gameLength.length; i++) {
 
-            leftDown();
+            for (int j = 0; j < gameLength[0].length; j++) {
+                if (moves > maximumMoves) {
+                    maximumMoves = moves;
+                    maxRow = i;
+                    maxColumn = j - 1;
+                }
+                Arrays.stream(gameLength).forEach(g -> Arrays.fill(g, 0));
+                moves = 0;
+                currentRow = i;
+                currentColumn = j;
+                gameLength[currentRow][currentColumn] = 1;
+                while (true) {
+                    counter = 0;
+                    leftUp();
 
-            rightUp();
+                    leftDown();
 
-            rightDown();
+                    rightUp();
 
-            upLeft();
+                    rightDown();
 
-            upRight();
+                    upLeft();
 
-            downRight();
+                    upRight();
 
-            downLeft();
+                    downRight();
+
+                    downLeft();
 
 
-            if (counter == 8) {
-                break;
+                    if (counter == 8) {
+                        break;
+                    }
+                }
+
+
             }
         }
-        System.out.println(moves);
+        System.out.print("Row: " + maxRow + " Column: " + maxColumn +
+                " has Maximum moves = " + maximumMoves);
+
+
     }
 
     public static void upLeft() {
