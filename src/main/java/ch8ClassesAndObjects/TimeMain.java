@@ -6,7 +6,7 @@ public class TimeMain {
         try {
 
 
-        time1.setTime(89,45,23);
+        time1.setTime(24,45,23);
         time1.UniversalTimeFormat();
         time1.standardTimeFormat();
     }catch (IllegalArgumentException e){

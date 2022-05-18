@@ -25,12 +25,7 @@ public class Time {
         System.out.printf("Standard Time: %02d:%02d:%02d %s%n%n",standardTime,minute,second,amPm());
     }
     public String  amPm(){
-        if (hour > 12 ){
-            return "pm";
-        }
-        else {
-            return "am";
-        }
+       return (hour < 12 && hour >=0 ? "am" : "pm");
     }
 
 
