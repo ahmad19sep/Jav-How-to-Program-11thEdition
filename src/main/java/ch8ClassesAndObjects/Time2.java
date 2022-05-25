@@ -47,7 +47,7 @@ public class Time2 {
 
     }
 
-    public Time2(@NotNull Time2 time) {
+    public Time2(Time2 time) {
         this(time.hour, time.minute, time.second);
     }
 
@@ -76,23 +76,23 @@ public class Time2 {
     }
 
     public int getHour() {
-        return this.hour;
+        return (this.hour*3600);
     }
 
     public int getMinute() {
-        return this.minute;
+        return (this.minute*60);
     }
 
     public int getSecond() {
         return this.second;
     }
 
-    public String universalTime() {
-        return String.format("%02d:%02d:%02d%n", getHour(), getMinute(), getSecond());
+    public int universalTime() {
+        return (getHour()+getMinute()+getSecond());
     }
 
     public String StandardTime() {
-        return String.format("%02d:%02d:%02d-%s",(getHour()!=0 && getHour()!=12 ? getHour()%12 : 12),
-                getMinute(),getSecond(),(getHour() < 12 ? "am" : "pm"));
+        return String.format("%02d:%02d:%02d-%s", (getHour() != 0 && getHour() != 12 ? getHour() % 12 : 12),
+                getMinute(), getSecond(), (getHour() < 12 ? "am" : "pm"));
     }
 }

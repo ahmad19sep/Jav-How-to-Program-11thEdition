@@ -8,7 +8,8 @@ public class Time2Main {
         Time2 t4 = new Time2(15, 6, 23);
         Time2 t5 = new Time2(t4);
         try {
-            Time2 t6= new Time2(25,65,34);
+            Time2 t6= new Time2(3,6,34);
+           displayTime("eee",t6);
         }catch (IllegalArgumentException e){
             System.out.println("www"+e.getMessage());
         }
@@ -21,7 +22,6 @@ public class Time2Main {
 
     }
     public static void displayTime(String s, Time2 t){
-        System.out.printf("\t%s\t%nUniversal Time: %s Standard Time: %s%n",s,t.universalTime(),
-                t.StandardTime());
+        System.out.println(t.universalTime());
     }
 }

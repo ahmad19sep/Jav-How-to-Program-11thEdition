@@ -62,6 +62,8 @@ public class KnightTourSeason2 {
             }
             System.out.println();
         }
+        System.out.println("\nsquare covered by knight ");
+
         for (int[] k : gameLength) {
             for (int l : k) {
                 System.out.print(" " + l);

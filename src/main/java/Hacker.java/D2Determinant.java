@@ -1,10 +1,20 @@
 package Hacker.java;
 
+import java.util.Scanner;
+
 public class D2Determinant {
 
 
     public static void main(String[] args) {
-        int[][] d3 = {{1,-2,3,4}, {2,3,-4,5}, {3,4,-5,6},{4,5,6,-7}};
+        Scanner scanner=new Scanner(System.in);
+        int[][] d3=new int[4][4];
+        System.out.println("Enter 4 by 4 array");
+        for (int i=0; i<4; i++){
+            for (int j=0; j<4; j++){
+                d3[i][j]=scanner.nextInt();
+            }
+        }
+
         System.out.println("Determinant is = " + d4(d3));
     }
 
