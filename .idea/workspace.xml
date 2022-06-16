@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="409ad6cc-a86e-438e-9a19-43d58567c47f" name="Changes" comment="problems ch 8">
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/BasePlusCommission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/Books.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/CarLoan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/City.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/ComissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/CountryName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/LoanMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/MainBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/MainCommission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/MainOf5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/MilkyWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/PlanetName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/PrincipalLoan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/PrintedBooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/SoftBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/Universe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/VillageName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/OOPInheritance.java/WithComposition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch8ClassesAndObjects/BigDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch8ClassesAndObjects/BigMain.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="28c567w8EaeKTCCqaHggpFhfH6y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Application.Shapes">
+    <configuration name="LoanMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPInheritance.java.LoanMain" />
+      <module name="Java-How-to-Program-11thE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPInheritance.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPInheritance.java.MainBook" />
+      <module name="Java-How-to-Program-11thE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPInheritance.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainCommission" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPInheritance.java.MainCommission" />
+      <module name="Java-How-to-Program-11thE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPInheritance.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainOf5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPInheritance.java.MainOf5" />
+      <module name="Java-How-to-Program-11thE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPInheritance.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Shapes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOPInheritance.java.Shapes" />
+      <module name="Java-How-to-Program-11thE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOPInheritance.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TurtleGraphics" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ch7Arrays.java.TurtleGraphics" />
+      <module name="Java-How-to-Program-11thE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ch7Arrays.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Shapes" />
+        <item itemvalue="Application.MainCommission" />
+        <item itemvalue="Application.LoanMain" />
+        <item itemvalue="Application.MainBook" />
+        <item itemvalue="Application.MainOf5" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="409ad6cc-a86e-438e-9a19-43d58567c47f" name="Changes" comment="" />
+      <created>1651502859170</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651502859170</updated>
+    </task>
+    <task id="LOCAL-00001" summary="ch 7 exersice">
+      <created>1652205701758</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1652205701758</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ch 7 ex KnightTourChess">
+      <created>1652294943046</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1652294943046</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ch 7 ex KnightTourChess">
+      <created>1652379342452</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1652379342452</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ch 7 ex KnightTourChessIndividualRun">
+      <created>1652593076212</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1652593076212</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ch 7 ex KnightTourChessIndividualRun">
+      <created>1652856991316</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1652856991316</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Heuristic ch 7">
+      <created>1653074826739</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1653074826739</updated>
+    </task>
+    <task id="LOCAL-00007" summary="4by4Determinant">
+      <created>1653170049786</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1653170049786</updated>
+    </task>
+    <task id="LOCAL-00008" summary="RationalProblem ch 8">
+      <created>1653499492020</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1653499492020</updated>
+    </task>
+    <task id="LOCAL-00009" summary="problems ch 8">
+      <created>1653499717240</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1653499717240</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="ch 7 exersice" />
+    <MESSAGE value="ch 7 ex KnightTourChess" />
+    <MESSAGE value="ch 7 ex KnightTourChessIndividualRun" />
+    <MESSAGE value="Heuristic ch 7" />
+    <MESSAGE value="4by4Determinant" />
+    <MESSAGE value="RationalProblem ch 8" />
+    <MESSAGE value="problems ch 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="problems ch 8" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/DeckOfCard.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/DeckCardTEST.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/GradeBookMain.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/GradeBookMain.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/GradeBook.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/TwoDimensional.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/DuplicateElimination.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/BufferReader.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/DiceRollingEx7.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/AirLineSystemEx7.java</url>
+          <line>84</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/ArcheryGame.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/SplitString.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/GameOfCraps.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/KnightTourSeason2.java</url>
+          <line>88</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/KnightTourSeason2.java</url>
+          <line>111</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/KnightTourSeason2.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/KnightTourSeason2.java</url>
+          <line>159</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/KnightTourSeason2.java</url>
+          <line>182</line>
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/KnightTourSeason2.java</url>
+          <line>204</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/KnightTourSeason2.java</url>
+          <line>227</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/KnightTourSeason2.java</url>
+          <line>251</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch8ClassesAndObjects/TimeMain.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/KnightTourSeason2.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/KnightTourChess.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="100" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/KnightTourChess.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="101" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch8ClassesAndObjects/enumTypesCh8.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="103" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch8ClassesAndObjects/BigDecimal1.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch8ClassesAndObjects/BigDecimal1.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/Heuristic.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/Heuristic.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/Heuristic.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="125" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/Heuristic2.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="126" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/Heuristic2.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/Heuristic2.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="128" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/Heuristic2.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="129" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/Heuristic2.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="131" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/Heuristic2.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/DeckOfCard.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="133" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Hacker.java/D2Determinant.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TimeProject.java/Time.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TimeProject.java/Time.java</url>
+          <line>125</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/TimeProject.java/Time.java</url>
+          <line>129</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch8ClassesAndObjects/ComplexNumber.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="146" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/KnightTourChess.java</url>
+          <line>156</line>
+          <properties class="Ch7Arrays.java.KnightTourChess" method="leftUp">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/KnightTourChess.java</url>
+          <line>176</line>
+          <properties class="Ch7Arrays.java.KnightTourChess" method="leftDown">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/KnightTourChess.java</url>
+          <line>196</line>
+          <properties class="Ch7Arrays.java.KnightTourChess" method="rightUp">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/KnightTourChess.java</url>
+          <line>219</line>
+          <properties class="Ch7Arrays.java.KnightTourChess" method="rightDown">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/ch8ClassesAndObjects/Time2.java</url>
+          <line>61</line>
+          <properties class="ch8ClassesAndObjects.Time2" method="setMinute">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_How_to_Program_11thE$Heuristic.ic" NAME="Heuristic Coverage Results" MODIFIED="1652989247165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Ch7Arrays.java.*</FILTER>
+    </SUITE>
+  </component>
+</project>

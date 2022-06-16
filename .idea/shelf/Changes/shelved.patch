@@ -1,0 +1,198 @@
+Index: src/main/java/Ch7Arrays.java/TurtleGraphics.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/java/Ch7Arrays.java/TurtleGraphics.java b/src/main/java/Ch7Arrays.java/TurtleGraphics.java
+new file mode 100644
+--- /dev/null	(date 1652204893749)
++++ b/src/main/java/Ch7Arrays.java/TurtleGraphics.java	(date 1652204893749)
+@@ -0,0 +1,188 @@
++package Ch7Arrays.java;
++
++import java.util.Scanner;
++
++public class TurtleGraphics {
++    static int currentRow;
++    static int currentColumn;
++    static int[][] arrays;
++    static int moves;
++    static Scanner scanner = new Scanner(System.in);
++
++    public static void main(String[] args) {
++        System.out.print("Enter the size of floor: ");
++        int floorSize = scanner.nextInt();
++        arrays = new int[floorSize][floorSize];
++        System.out.print("Enter the current location of row: ");
++        currentRow = scanner.nextInt();
++        System.out.print("Enter the current location of Column: ");
++        currentColumn = scanner.nextInt();
++
++
++        while (true) {
++            System.out.print("Enter command: ");
++            moves++;
++            int command = scanner.nextInt();
++
++            if (command == 1) {
++                upFunction();
++
++            } else if (command == 2) {
++                downFunction();
++            } else if (command == 3) {
++                turnRight();
++            } else if (command == 4) {
++                turnLeft();
++            } else if (command == 6) {
++                displaySystem();
++                break;
++            }
++
++
++        }
++    }
++
++    public static void upFunction() {
++        moves = 0;
++        if (currentColumn != 0 && currentRow != 0) {
++            System.out.print("Enter spaces: ");
++            int spaces = scanner.nextInt();
++            try {
++
++
++                arrays[currentRow][currentColumn] = 1;
++
++
++                int i1counter = 0;
++                for (int i = 0; i < spaces; i++) {
++                    arrays[currentRow - i][currentColumn] = 1;
++                    i1counter = i;
++                }
++                currentColumn = currentColumn;
++                currentRow = currentRow - i1counter;
++            } catch (ArrayIndexOutOfBoundsException e) {
++                System.out.println(e);
++                System.out.printf("Required spaces =%d  ArrayLength is smaller than your spaces " +
++                        "%n please enter valid value%n%n", spaces);
++            }
++
++        }
++    }
++
++    public static void downFunction() {
++        moves = 0;
++
++        System.out.print("Enter spaces: ");
++        int spaces = scanner.nextInt();
++
++        arrays[currentRow][currentColumn] = 1;
++
++        try {
++
++
++            int i1counter = 0;
++            for (int i = 0; i < spaces; i++) {
++                arrays[currentRow + i][currentColumn] = 1;
++                i1counter = i;
++            }
++            currentColumn = currentColumn;
++            currentRow = currentRow + i1counter;
++        } catch (ArrayIndexOutOfBoundsException e) {
++            System.out.println(e);
++            System.out.printf("Required spaces =%d  ArrayLength is smaller than your spaces " +
++                    "%n please enter valid value%n%n", spaces);
++        }
++    }
++
++    public static void turnRight() {
++
++        System.out.print("Enter spaces: ");
++        int spaces = scanner.nextInt();
++
++        arrays[currentRow][currentColumn] = 1;
++        try {
++
++
++            if (moves % 2 != 0) {
++                int i1counter = 0;
++                for (int i = 0; i < spaces; i++) {
++                    arrays[currentRow][currentColumn + i] = 1;
++                    i1counter = i;
++                }
++                currentColumn = currentColumn + i1counter;
++                currentRow = currentRow;
++            }
++            if (moves % 2 == 0) {
++                int i1counter = 0;
++                for (int i = 0; i < spaces; i++) {
++                    arrays[currentRow + i][currentColumn] = 1;
++                    i1counter = i;
++                }
++                currentColumn = currentColumn;
++                currentRow = currentRow + i1counter;
++            }
++        } catch (ArrayIndexOutOfBoundsException e) {
++            System.out.println(e);
++            System.out.printf("Required spaces =%d  ArrayLength is smaller than your spaces " +
++                    "%n please enter valid value%n%n", spaces);
++        }
++    }
++
++    public static void turnLeft() {
++
++        System.out.print("Enter spaces: ");
++        int spaces = scanner.nextInt();
++
++        arrays[currentRow][currentColumn] = 1;
++        try {
++
++
++            if (moves % 2 != 0) {
++                int i1counter = 0;
++                for (int i = 0; i < spaces; i++) {
++                    arrays[currentRow][currentColumn - i] = 1;
++                    i1counter = i;
++                }
++                currentColumn = currentColumn - i1counter;
++                currentRow = currentRow;
++            }
++            if (moves % 2 == 0) {
++                int i1counter = 0;
++                for (int i = 0; i < spaces; i++) {
++                    arrays[currentRow - i][currentColumn] = 1;
++                    i1counter = i;
++                }
++                currentColumn = currentColumn;
++                currentRow = currentRow - i1counter;
++            }
++        } catch (ArrayIndexOutOfBoundsException e) {
++            System.out.println(e);
++            System.out.printf("Required spaces =%d  ArrayLength is smaller than your spaces " +
++                    "%n please enter valid value%n%n", spaces);
++        }
++
++    }
++
++    public static void displaySystem() {
++        for (int k = 0; k < arrays.length; k++) {
++            for (int j = 0; j < arrays[0].length; j++) {
++                if (arrays[k][j] == 1) {
++                    System.out.print(" $");
++                } else {
++                    System.out.print(" -");
++                }
++            }
++            System.out.println();
++
++        }
++
++    }
++
++
++}
++
++
++
++
++
++
