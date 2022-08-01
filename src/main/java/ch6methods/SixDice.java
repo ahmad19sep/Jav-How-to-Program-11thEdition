@@ -12,7 +12,7 @@ public class SixDice {
         int dice5=0;
         int dice6=0;
         for (int i=1; i<=60000000;i++){
-            int randomNo=number.nextInt(6);
+            int randomNo=1+number.nextInt(6);
             switch (randomNo){
                 case 1:
                     ++dice1;
