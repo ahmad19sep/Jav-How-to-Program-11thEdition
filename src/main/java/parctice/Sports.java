@@ -32,6 +32,9 @@ public class Sports {
     public String getSource(String source){
         return this.source;
     }
+    public void playing(){
+        System.out.println("playing");
+    }
     public String toString(){
         return String.format("%s : %d%n%s : %s%n%s : %s","Player",players,
                 "RequiredThings for Game ",material,"Source",source);
