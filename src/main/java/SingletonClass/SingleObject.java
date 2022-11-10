@@ -12,15 +12,21 @@ public class SingleObject {
     public String getNetwork(){
         return network;
     }
-    private static SingleObject t=null;
-
+    private static SingleObject t;
+private static boolean connectionChecker=false;
     public static SingleObject getConnection(String network){
+        if (connectionChecker) {
+           throw new RuntimeException("network is already connected");
 
-        if (t==null){
-            t=new SingleObject(network);
         }
-        else t.setNetwork(network);
+        else {
+            t=new SingleObject(network);
+            connectionChecker=true;
+        }
         return t;
+    }
+    public static void closeConnection(){
+        connectionChecker=false;
     }
 
 }

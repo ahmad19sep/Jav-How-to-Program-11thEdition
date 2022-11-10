@@ -3,6 +3,7 @@ package ch4;
 import java.util.Scanner;
 
 public class Lrg {
+  public   String myGirl="muneeba";
     public static void main(String[] args) {
         int largestNumber=0;
         int frequentNo=0;

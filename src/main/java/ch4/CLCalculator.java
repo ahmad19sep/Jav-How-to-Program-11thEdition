@@ -3,6 +3,7 @@ package ch4;
 import java.util.Scanner;
 
 public class CLCalculator {
+    public static int ch=3;
     public static void main(String[] args) {
         char ch = 's';
         Scanner scanner = new Scanner(System.in);

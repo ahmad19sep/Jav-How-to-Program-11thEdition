@@ -13,6 +13,7 @@ public class Treeset {
         set.add("John");
         //Tree set print elements in ordered way like
         System.out.println(set);
+
         // Using some functions
         System.out.println("Print first element : " + set.first());
         System.out.println("Print last element : " + set.last());

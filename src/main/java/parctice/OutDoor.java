@@ -15,6 +15,9 @@ public class OutDoor extends Sports {
     public void setGround(String ground) {
         this.ground = ground;
     }
+    public void playing(){
+        System.out.println("Cricket Playing");
+    }
    /* public String toString(){
         return super.toString()+ground;
     }*/

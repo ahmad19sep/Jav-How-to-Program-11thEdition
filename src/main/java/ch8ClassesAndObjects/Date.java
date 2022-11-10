@@ -24,6 +24,9 @@ public class Date {
 
 
     }
+    public int getMonth(){
+        return this.month;
+    }
     public String toString(){
         return String.format("%02d/%02d/%d",month,day,year);
     }

@@ -4,155 +4,163 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="409ad6cc-a86e-438e-9a19-43d58567c47f" name="Changes" comment="problems ch 8 9 10">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/AirLineSystemEx7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/ArcheryGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/Args.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/Args.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/ArrayList1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/ArraysPractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/BufferReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/CLA.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/CLA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/Card.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/ClassArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/DeckCardTEST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/DeckOfCard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/DeckOfCards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/DiceRollingEx7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/DuplicateElimination.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/EnhancedFor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/ExerciseQuestions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/FrequencyArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/GameOfCraps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/GamesOfCraps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/GradeBook.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/GradeBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/GradeBookMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/Heuristic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/Heuristic2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/HeuristicTied.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/KnightTourChess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/KnightTourSeason2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/OneDimensionalArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/PixelQuantization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/RollDiceArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/SplitString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/Static.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/TWoDimensionalGradeBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/TwoDMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/TwoDimensional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/VLGlist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/VariableLengthArgument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Checker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Account.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/AccountTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/AmountCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/BasePlusCommissionSalary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/ClassTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/CommissionEmplyoee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Composition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Continue.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Continue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Display.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Display.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/DoWhile.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/DoWhile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Enum/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/EnumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/For.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/For.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/GradeBook.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/GradeBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/IfElse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/MainFunction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/MainFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/MethodOverLoading.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/MethodOverLoading.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Object$status.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Object.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Object.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/ObjectTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/ObjectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/OutDoor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Parctice2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Parctice2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Random.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Random.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Sports.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Static.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Static.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/StaticImport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/StaticVariables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/StudentData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/StudentMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Switch.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/TestEmploye.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/TestInheritance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/TestStatic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/TestStd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Time.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Time.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Tmetest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Tmetest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/While.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/While.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/gradeBookTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/gradeBookTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/parctice.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/parctice.java" afterDir="false" />
+    <list default="true" id="409ad6cc-a86e-438e-9a19-43d58567c47f" name="Changes" comment="String Array with stream">
+      <change afterPath="$PROJECT_DIR$/Client.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Clients.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dynamic_Programming" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files/Student_File.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ch16GenericCollections/ArrayDequeue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ch16GenericCollections/CollectionTest16Fig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ch16GenericCollections/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ch16GenericCollections/Fig16WithLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ch16GenericCollections/InsertionSortWithWhile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ch16GenericCollections/Shuffle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ch16GenericCollections/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompanyEmployeeDataBase/EDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/CompanyEmployeeDataBase/EmployeeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DynamicProgramming/PrintNUmRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DynamicProgramming/ch18/BooleanFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DynamicProgramming/ch18/DimensionWays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DynamicProgramming/ch18/TargetSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DynamicProgramming/ch18/TowerOfHanoi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Employees.java/BasePlusCM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Employees.java/Calculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Employees.java/CommissionEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Employees.java/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Employees.java/HourlyEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Employees.java/SalariedEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandling/DivisionBZeroExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandling/FinallyExceptiion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ExceptionHandling/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GoogleKickStart/CLCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hacker.java/Hacker.Interface/ArrayList1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hacker.java/Hacker.Interface/ComparatorQe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hacker.java/Hacker.Interface/Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hacker.java/Hacker.Interface/Liste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hacker.java/Hacker.Interface/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hacker.java/Hacker.Interface/Solution2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hacker.java/Hacker.Interface/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hacker.java/HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hacker.java/Java End-of-file.java/Screenshot from 2022-08-03 10-58-29.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hacker.java/Java End-of-file.java/Screenshot from 2022-08-03 10-58-35.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hacker.java/Java Exception Handling/MyCalculato.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hacker.java/Java Exception Handling/Screenshot from 2022-08-03 21-59-14.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hacker.java/Java Exception Handling/Screenshot from 2022-08-03 22-11-53.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hacker.java/Java Exception Handling/Screenshot from 2022-08-03 22-12-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hacker.java/Java Exception Handling/Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hacker.java/Solution1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hacker.java/prime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Hacker.java/primeHacker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/EmployeeTst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/InfiniteStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/IntermediateAndTerminalOp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/LambdsOnly/FilterLambds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/LambdsOnly/IntStreamOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/LambdsOnly/LambdForEach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/LambdsOnly/LambdsPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/LambdsOnly/StreamMethodReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/LambdsOnly/TeacherProject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/LambdsOnly/TestingClassTeacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/Mapping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/RandomIntStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/ch17Exerisce/AvgOfOddEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/ch17Exerisce/FilteringAndSorting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/ch17Exerisce/GradesCalculation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/ch17Exerisce/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/ch17Exerisce/InvoiceStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/ch17Exerisce/PhoneDirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/ch17Exerisce/SumOfEvenTriples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/ch17Exerisce/UseLambdaExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedIn/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/LinkedIn/TestPen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Samples/StudentSample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Samples/StudentSampleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SingletonClass/TestSingleObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch10OOP/Mobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch10OOP/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch10OOP/ShapeMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch10OOP/TestMobile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch10OOP/ThreeDS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch10OOP/Tv.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch10OOP/TwoDS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch10OOP/generalTech.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15Files/BankInquiry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15Files/BufferReaderWithFileOp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15Files/CreateTextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15Files/FileAndDirectoryInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15Files/MenuOption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15Files/ReadTextFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15Files/StreamFileIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15Files/VeryBasicFileOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch15Files/WritingDataInFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ch2InputOutput/ElectricCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/HasNext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Indoor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/TestPayable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/interfaces/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/parctice/interfaces/Payable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/AirLineSystemEx7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/ArcheryGame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/Args.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/Args.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/ArrayList1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/ArraysPractice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/BufferReader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/CLA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/CLA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/Card.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/ClassArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/DeckCardTEST.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/DeckOfCard.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/DeckOfCards.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/DiceRollingEx7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/DuplicateElimination.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/EnhancedFor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/ExerciseQuestions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/FrequencyArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/GameOfCraps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/GamesOfCraps.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/GradeBook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/GradeBook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/GradeBookMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/Heuristic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/Heuristic2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/HeuristicTied.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/KnightTourChess.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/KnightTourSeason2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/OneDimensionalArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/PixelQuantization.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/RollDiceArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/SplitString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/Static.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/TWoDimensionalGradeBook.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/TwoDMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/TwoDimensional.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/VLGlist.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays.java/VariableLengthArgument.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ch6methods/SixDice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch6methods/SixDice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Ch7Arrays/java/Heuristic2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Ch7Arrays/java/KnightTourChess.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ch6methods/SixDice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ch6methods/SixDice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ch16GenericCollections/ComparatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ch16GenericCollections/ComparatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ch16GenericCollections/SortingDescendingAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ch16GenericCollections/SortingDescendingAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ch16GenericCollections/Treeset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ch16GenericCollections/Treeset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays/Args.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays/CLA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays/DeckCardTEST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ch7Arrays/DeckCardTEST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Ch7Arrays/GradeBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Checker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Checker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DynamicProgramming/ch18/FactorialUsingRecursion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DynamicProgramming/ch18/FactorialUsingRecursion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/DynamicProgramming/ch18/FibonacciSeries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/DynamicProgramming/ch18/FibonacciSeries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GoogleKickStart/RecordBreaker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GoogleKickStart/SampleProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GoogleKickStart/SampleProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hacker.java/D2Determinant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parctice/D2Determinant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hacker.java/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Hacker.java/solution1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SingletonClass/SingleObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SingletonClass/SingleObject.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch4/CLCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch4/CLCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch4/Lrg.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch4/Lrg.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch5Switch/Break.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch5Switch/Break.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch8ClassesAndObjects/Date.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ch8ClassesAndObjects/Date.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch8ClassesAndObjects/PackageAccess.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch8ClassesAndObjects/PackageData.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch8ClassesAndObjects/SimpleTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch8ClassesAndObjects/ThisTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ch8ClassesAndObjects/Time.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parctice/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/AccountTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/Continue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/Display.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/DoWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/For.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/GradeBook.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/IfElse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/MainFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/MethodOverLoading.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/Object$status.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/Object.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/ObjectTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/OutDoor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/parctice/OutDoor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/Parctice2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/Random.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/SalariedEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/Static.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/Switch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/TestEmploye.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/Time.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/Tmetest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/While.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/gradeBookTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/parctice/parctice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Ch7Arrays/java/DeckCardTEST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Hacker/java/D2Determinant.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Hacker/java/solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ch4/CLCalculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ch4/CLCalculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ch4/Lrg.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ch4/Lrg.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ch5Switch/Break.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ch5Switch/Break.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ch8ClassesAndObjects/Date.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ch8ClassesAndObjects/Date.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -162,6 +170,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -176,6 +186,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jrt:///usr/lib/jvm/java-1.11.0-openjdk-amd64!/java.base/java/math/BitSieve.class" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -200,20 +213,31 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="ShowUsagesActions.previewPropertyKey" value="true" />
+    <property name="last_opened_file_path" value="/usr/lib/jvm/java-1.11.0-openjdk-amd64/docs" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Ch16GenericCollections" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TestEmploye">
-    <configuration name="AmountCollection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.AmountCollection" />
+  <component name="RunManager" selected="Application.BankInquiry">
+    <configuration name="BankInquiry" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15Files.BankInquiry" />
       <module name="Java-How-to-Program-11thE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parctice.*" />
+          <option name="PATTERN" value="ch15Files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -221,12 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StaticImport" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.StaticImport" />
+    <configuration name="CreateTextFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15Files.CreateTextFile" />
       <module name="Java-How-to-Program-11thE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parctice.*" />
+          <option name="PATTERN" value="ch15Files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -234,12 +258,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestEmploye" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.TestEmploye" />
+    <configuration name="FileAndDirectoryInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15Files.FileAndDirectoryInfo" />
       <module name="Java-How-to-Program-11thE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parctice.*" />
+          <option name="PATTERN" value="ch15Files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,12 +271,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestInheritance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.TestInheritance" />
+    <configuration name="ReadTextFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15Files.ReadTextFile" />
       <module name="Java-How-to-Program-11thE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parctice.*" />
+          <option name="PATTERN" value="ch15Files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -260,12 +284,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStatic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="parctice.TestStatic" />
+    <configuration name="StreamFileIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch15Files.StreamFileIO" />
       <module name="Java-How-to-Program-11thE" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="parctice.*" />
+          <option name="PATTERN" value="ch15Files.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -288,11 +312,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestEmploye" />
-        <item itemvalue="Application.TestInheritance" />
-        <item itemvalue="Application.AmountCollection" />
-        <item itemvalue="Application.StaticImport" />
-        <item itemvalue="Application.TestStatic" />
+        <item itemvalue="Application.BankInquiry" />
+        <item itemvalue="Application.CreateTextFile" />
+        <item itemvalue="Application.ReadTextFile" />
+        <item itemvalue="Application.FileAndDirectoryInfo" />
+        <item itemvalue="Application.StreamFileIO" />
       </list>
     </recent_temporary>
   </component>
@@ -382,7 +406,161 @@
       <option name="project" value="LOCAL" />
       <updated>1655391196671</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="problems ch 8 9 10">
+      <created>1659383457040</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1659383457040</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Sum of two primes">
+      <created>1659558226137</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1659558226137</updated>
+    </task>
+    <task id="LOCAL-00014" summary="parctice only">
+      <created>1659558643329</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1659558643329</updated>
+    </task>
+    <task id="LOCAL-00015" summary="KickStartGoogle2022">
+      <created>1661889472502</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1661889472502</updated>
+    </task>
+    <task id="LOCAL-00016" summary="KickStartGoogle2022&#10;RecordBreaker">
+      <created>1661927733165</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1661927733165</updated>
+    </task>
+    <task id="LOCAL-00017" summary="SingletonObject">
+      <created>1663352159688</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1663352159688</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Sorting Algorithm">
+      <created>1665128489158</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1665128489158</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Employee Sorting using comparator">
+      <created>1665139949185</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1665139949185</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Own GenericClass">
+      <created>1665295044139</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1665295044139</updated>
+    </task>
+    <task id="LOCAL-00021" summary="comparable interface">
+      <created>1665295525713</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1665295525713</updated>
+    </task>
+    <task id="LOCAL-00022" summary="HashSet">
+      <created>1665485617246</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1665485617246</updated>
+    </task>
+    <task id="LOCAL-00023" summary="hashMap">
+      <created>1665487864309</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1665487864309</updated>
+    </task>
+    <task id="LOCAL-00024" summary="TreeSet">
+      <created>1665491745865</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1665491745865</updated>
+    </task>
+    <task id="LOCAL-00025" summary="median-of-two-sorted-arrays">
+      <created>1665664896608</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1665664896608</updated>
+    </task>
+    <task id="LOCAL-00026" summary="TreeMap">
+      <created>1665756027679</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1665756027679</updated>
+    </task>
+    <task id="LOCAL-00027" summary="FactorialUsingRecursion">
+      <created>1665981051893</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1665981051893</updated>
+    </task>
+    <task id="LOCAL-00028" summary="FactorialUsingRecursion">
+      <created>1665982125794</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1665982125794</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Fibon">
+      <created>1665989285400</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1665989285400</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Stream Functions&#10;Declarative and Imperative">
+      <created>1666534273100</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1666534273100</updated>
+    </task>
+    <task id="LOCAL-00031" summary="filter and Map stream">
+      <created>1666534388601</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1666534388601</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Integer Array with stream">
+      <created>1666598782095</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1666598782095</updated>
+    </task>
+    <task id="LOCAL-00033" summary="String Array with stream">
+      <created>1666598795279</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1666598795279</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -398,15 +576,32 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="ch 7 exersice" />
-    <MESSAGE value="ch 7 ex KnightTourChess" />
-    <MESSAGE value="ch 7 ex KnightTourChessIndividualRun" />
     <MESSAGE value="Heuristic ch 7" />
     <MESSAGE value="4by4Determinant" />
     <MESSAGE value="RationalProblem ch 8" />
     <MESSAGE value="problems ch 8" />
     <MESSAGE value="problems ch 8 9 10" />
-    <option name="LAST_COMMIT_MESSAGE" value="problems ch 8 9 10" />
+    <MESSAGE value="Sum of two primes" />
+    <MESSAGE value="parctice only" />
+    <MESSAGE value="KickStartGoogle2022" />
+    <MESSAGE value="KickStartGoogle2022&#10;RecordBreaker" />
+    <MESSAGE value="SingletonObject" />
+    <MESSAGE value="Sorting Algorithm" />
+    <MESSAGE value="Employee Sorting using comparator" />
+    <MESSAGE value="Own GenericClass" />
+    <MESSAGE value="comparable interface" />
+    <MESSAGE value="HashSet" />
+    <MESSAGE value="hashMap" />
+    <MESSAGE value="TreeSet" />
+    <MESSAGE value="median-of-two-sorted-arrays" />
+    <MESSAGE value="TreeMap" />
+    <MESSAGE value="FactorialUsingRecursion" />
+    <MESSAGE value="Fibon" />
+    <MESSAGE value="Stream Functions&#10;Declarative and Imperative" />
+    <MESSAGE value="filter and Map stream" />
+    <MESSAGE value="Integer Array with stream" />
+    <MESSAGE value="String Array with stream" />
+    <option name="LAST_COMMIT_MESSAGE" value="String Array with stream" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -602,7 +797,7 @@
           <option name="timeStamp" value="133" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Hacker.java/D2Determinant.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/parctice/D2Determinant.java</url>
           <line>21</line>
           <option name="timeStamp" value="137" />
         </line-breakpoint>
@@ -655,6 +850,369 @@
           <url>file://$PROJECT_DIR$/src/main/java/ch6methods/SixDice.java</url>
           <line>14</line>
           <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/parctice/ValidationTester.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ExceptionHandling/DivisionBZeroExceptionHandling.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Employees.java/SalariedEmployee.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Employees.java/Calculation.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Hacker.java/Solution1.java</url>
+          <line>1</line>
+          <option name="timeStamp" value="188" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SingletonClass/SingleObject.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="191" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/SingletonClass/SingleObject.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="192" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch16GenericCollections/Fig16WithLinkedList.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch16GenericCollections/Fig16WithLinkedList.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="195" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch16GenericCollections/Fig16WithLinkedList.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="196" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch16GenericCollections/Fig16WithLinkedList.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="197" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch16GenericCollections/InsertionSortWithWhile.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch16GenericCollections/InsertionSortWithWhile.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="202" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch16GenericCollections/InsertionSortWithWhile.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="203" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch16GenericCollections/InsertionSortWithWhile.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch16GenericCollections/ComparingEmployees.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="205" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch16GenericCollections/ComparingEmployees.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="206" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch16GenericCollections/ComparingEmployees.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="207" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch16GenericCollections/ComparatorTest.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch16GenericCollections/GenericClass.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="213" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch16GenericCollections/GenericClass.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="214" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DynamicProgramming/ch18/TowerOfHanoi.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="216" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DynamicProgramming/ch18/TowerOfHanoi.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DynamicProgramming/ch18/TowerOfHanoi.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DynamicProgramming/ch18/TowerOfHanoi.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="219" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DynamicProgramming/ch18/TowerOfHanoi.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DynamicProgramming/ch18/TowerOfHanoi.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DynamicProgramming/ch18/TowerOfHanoi.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="222" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Hacker.java/HashMap.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="223" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CompanyEmployeeDataBase/EDB.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CompanyEmployeeDataBase/EDB.java</url>
+          <line>68</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CompanyEmployeeDataBase/EDB.java</url>
+          <line>69</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CompanyEmployeeDataBase/EDB.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="231" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CompanyEmployeeDataBase/EDB.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CompanyEmployeeDataBase/EDB.java</url>
+          <line>72</line>
+          <option name="timeStamp" value="233" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/CompanyEmployeeDataBase/EDB.java</url>
+          <line>73</line>
+          <properties>
+            <option name="lambda-ordinal" value="1" />
+          </properties>
+          <option name="timeStamp" value="234" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DynamicProgramming/ch18/TargetSum.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="235" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DynamicProgramming/ch18/TargetSum.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DynamicProgramming/ch18/TargetSum.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DynamicProgramming/ch18/TargetSum.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DynamicProgramming/ch18/TargetSum.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="240" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/DynamicProgramming/ch18/TargetSum.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/EmployeeTst.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="246" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/EmployeeTst.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/ch17Exerisce/SumOfEvenTriples.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/ch17Exerisce/SumOfEvenTriples.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/ch17Exerisce/SumOfEvenTriples.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/ch17Exerisce/SumOfEvenTriples.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/ch17Exerisce/SumOfEvenTriples.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/ch17Exerisce/SumOfEvenTriples.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/ch17Exerisce/SumOfEvenTriples.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/ch17Exerisce/SumOfEvenTriples.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/ch17Exerisce/GradesCalculation.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/LambdasandStreamsch17/ch17Exerisce/GradesCalculation.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch15Files/CreateTextFile.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch15Files/CreateTextFile.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch15Files/CreateTextFile.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch15Files/CreateTextFile.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="264" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch15Files/CreateTextFile.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch15Files/CreateTextFile.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch15Files/BankInquiry.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="270" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch15Files/BankInquiry.java</url>
+          <line>55</line>
+          <option name="timeStamp" value="271" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch15Files/BankInquiry.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch15Files/BankInquiry.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch15Files/BankInquiry.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="274" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch15Files/BankInquiry.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="275" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch15Files/BankInquiry.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch15Files/BankInquiry.java</url>
+          <line>58</line>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch15Files/BankInquiry.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch15Files/BankInquiry.java</url>
+          <line>56</line>
+          <option name="timeStamp" value="279" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch15Files/BankInquiry.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ch15Files/BankInquiry.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="281" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/Ch7Arrays.java/KnightTourChess.java</url>
@@ -710,10 +1268,51 @@
           </properties>
           <option name="timeStamp" value="149" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/SingletonClass/SingleObject.java</url>
+          <line>16</line>
+          <properties class="SingletonClass.SingleObject" method="getConnection">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="190" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/Ch16GenericCollections/ComparatorTest.java</url>
+          <line>6</line>
+          <properties class="Ch16GenericCollections.ComparatorTest" method="compare">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/DynamicProgramming/ch18/TowerOfHanoi.java</url>
+          <line>3</line>
+          <properties class="DynamicProgramming.ch18.TowerOfHanoi" method="solveTower">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="215" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/main/java/SingletonClass/SingleObject.java</url>
+          <line>15</line>
+          <properties field="connectionChecker" class="SingletonClass.SingleObject" />
+          <option name="timeStamp" value="189" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="ch15Files.MenuOption" memberName="name" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_How_to_Program_11thE$ReadTextFile.ic" NAME="ReadTextFile Coverage Results" MODIFIED="1668003540745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>ch15Files.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/Java_How_to_Program_11thE$Heuristic.ic" NAME="Heuristic Coverage Results" MODIFIED="1652989247165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Ch7Arrays.java.*</FILTER>
     </SUITE>

@@ -1,4 +1,4 @@
-package Ch7Arrays.java;
+/*package Ch7Arrays.java;
 
 public class DeckCardTEST {
     public static void main(String[] args) {
@@ -12,4 +12,4 @@ public class DeckCardTEST {
             }
         }
     }
-}
+}*/
